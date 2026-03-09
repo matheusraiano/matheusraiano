@@ -1,16 +1,16 @@
-## Olá Mundo! Sou Matheus Raiano kkkkk 👋
+# Olá Mundo! Sou Matheus Raiano kkkk 👋
 
-<!--
-**matheusraiano/matheusraiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cursando ADS**
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Filosofia
+
+> _"Código não se trata apenas de resolver problemas. 
+> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
+
+---
+
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos 
+🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras
