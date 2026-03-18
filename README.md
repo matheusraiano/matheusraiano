@@ -4,8 +4,6 @@
 
 [**Meu Portfólio**](https://matheusraiano.github.io/portfolio/)
 
-<a href="https://matheusraiano.github.io/portfolio/" target="_blank"><strong>Meu Portfólio</strong></a>
-
 ---
 
 ## 🚀 Philosophy
