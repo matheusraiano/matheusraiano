@@ -23,8 +23,8 @@
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/matheusraiano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusraiano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="matheusraiano's github stats" /></a> | <a href="https://github.com/matheusraiano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusraiano&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ![matheusraiano's Stats](https://github-readme-stats.vercel.app/api?username=matheusraiano&theme=blueberry&show_icons=true&hide_border=true&count_private=true) | ![matheusraiano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusraiano&theme=blueberry&show_icons=true&hide_border=true&layout=compact) | ![matheusraiano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusraiano&theme=blueberry&hide_border=true) |
+| ------------- | ------------- | ------------- |
 
 ---
 
