@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 
-| ![matheusraiano's Stats](https://github-readme-stats.vercel.app/api?username=matheusraiano&theme=blueberry&show_icons=true&hide_border=true&count_private=true) | ![matheusraiano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusraiano&theme=blueberry&show_icons=true&hide_border=true&layout=compact) |
+| ![matheusraiano's Stats](https://github-readme-stats.vercel.app/api?username=matheusraiano&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) | ![matheusraiano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusraiano&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) |
 | ------------- | ------------- |
 
 ---
