@@ -1,6 +1,6 @@
 # Hello World! i'm Matheus Raiano 👋
 
-🇧🇷 Brasil
+🇧🇷 Brazil
 
 [**My Portfolio**](https://matheusraiano.github.io/portfolio/)
 
