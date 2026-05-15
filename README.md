@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 Philosophy
-
-> _"If the future is death, why the rush?."_
-
----
-
 ## 🛠️ Tech Stack
 
 <code><img height="35" alt="html" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png"></code>
