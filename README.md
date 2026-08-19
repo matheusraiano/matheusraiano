@@ -17,12 +17,13 @@
 <code><img height="35" alt="java" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png"></code>
 <code><img height="35" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/960px-Python.svg.png"></code>
+<code><img height="35" alt="springboot" src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"></code>
+<code><img height="35" alt="bootstrap" src="[https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)"></code>
 
 ---
 
 ## 📚 Currently Learning
 
-<code><img height="35" alt="springboot" src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"></code>
 <code><img height="35" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
 <code><img height="35" alt="nextjs" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"></code>
 <code><img height="35" alt="nestjs" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"></code>
