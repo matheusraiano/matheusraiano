@@ -15,10 +15,13 @@
 <code><img height="35" alt="nodejs" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-svg-download-png-3030179.png?f=webp"></code>
 <code><img height="35" alt="express" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png"></code>
 <code><img height="35" alt="java" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png"></code>
-<code><img height="35" alt="sql" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="35" alt="mysql" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
+<code><img height="35" alt="mariadb" src="https://avatars.githubusercontent.com/u/5877084?s=280&v=4"></code>
+<code><img height="35" alt="mongodb" src="https://images.seeklogo.com/logo-png/48/2/mongodb-logo-png_seeklogo-481256.png"></code> 
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/960px-Python.svg.png"></code>
 <code><img height="35" alt="springboot" src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"></code>
 <code><img height="35" alt="bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
+<code><img height="35" alt="aws" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"></code>
 
 ---
 
