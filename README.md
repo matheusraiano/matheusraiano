@@ -21,6 +21,7 @@
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/960px-Python.svg.png"></code>
 <code><img height="35" alt="springboot" src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"></code>
 <code><img height="35" alt="bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></code>
+<code><img height="35" alt="tailwindcss" src="https://static.vecteezy.com/system/resources/previews/067/565/433/non_2x/tailwind-css-logo-rounded-free-png.png"></code>
 <code><img height="35" alt="aws" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"></code>
 <code><img height="35" alt="aws" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvHMT0riO5Ze2r4kAINc_2QMBAoTprILJkTDaOjbK3V41aDtJEg5uSAk69Hlx38eaxiMaJzEnLSdZaQC30EdwdM-&format=source&h=210"></code>
 
